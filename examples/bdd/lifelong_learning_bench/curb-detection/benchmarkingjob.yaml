@@ -19,7 +19,7 @@ benchmarkingjob:
       - name: "yolo_lifelong_learning_five_model_750data"
         # the url address of test algorithm configuration file; string type;
         # the file format supports yaml/yml
-        url: "./examples/bdd/lifelong_learning_bench/testalgorithms/yolo/yolo_algorithm.yaml"
+        url: "./examples/bdd/lifelong_learning_bench/curb-detection/testalgorithms/yolo/yolo_algorithm.yaml"
 
   # the configuration of ranking leaderboard
   rank:
