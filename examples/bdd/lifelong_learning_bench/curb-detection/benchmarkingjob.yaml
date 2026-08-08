@@ -6,7 +6,7 @@ benchmarkingjob:
 
   # the url address of test environment configuration file; string type;
   # the file format supports yaml/yml;
-  testenv: "./examples/bdd/lifelong_learning_bench/testenv/testenv.yaml"
+  testenv: "./examples/bdd/lifelong_learning_bench/curb-detection/testenv/testenv.yaml"
 
   # the configuration of test object
   test_object:
